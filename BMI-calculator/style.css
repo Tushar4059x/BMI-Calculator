@@ -1,0 +1,26 @@
+body {
+    background-color: wheat;
+    color: darkred;
+    font-size: larger;
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text 
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+#results {
+    margin-top: auto;
+    font-size: largest;
+    font-weight: 600;
+}
